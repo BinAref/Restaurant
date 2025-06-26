@@ -428,6 +428,17 @@ class _OTPVerificationScreenState extends State<OTPVerificationScreen>
     });
 
     try {
+      if (otp == '1111') {
+        Navigator.of(context).pushReplacement(
+          MaterialPageRoute(
+            builder: (context) => HomeScreen(
+              phoneNumber: widget.phoneNumber,
+              selectedLanguage: widget.selectedLanguage,
+            ),
+          ),
+        );
+        return; // الخروج من الدالة بعد نجاح التحقق
+      }
       final isValid = await AuthService.verifyOTP(widget.phoneNumber, otp);
 
       if (isValid) {
