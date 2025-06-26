@@ -1,0 +1,43 @@
+{
+  "@@locale": "ar",
+  "appTitle": "طلب الطعام",
+  "@appTitle": {
+    "description": "عنوان التطبيق"
+  },
+  "selectLanguage": "اختر اللغة",
+  "@selectLanguage": {
+    "description": "نص لاختيار اللغة"
+  },
+  "arabic": "العربية",
+  "@arabic": {
+    "description": "اسم اللغة العربية"
+  },
+  "turkish": "التركية",
+  "@turkish": {
+    "description": "اسم اللغة التركية"
+  },
+  "english": "الإنجليزية",
+  "@english": {
+    "description": "اسم اللغة الإنجليزية"
+  },
+  "next": "التالي",
+  "@next": {
+    "description": "زر التالي"
+  },
+  "back": "رجوع",
+  "@back": {
+    "description": "زر الرجوع"
+  },
+  "phoneNumber": "رقم الهاتف",
+  "@phoneNumber": {
+    "description": "حقل رقم الهاتف"
+  },
+  "enterPhoneNumber": "أدخل رقم هاتفك",
+  "@enterPhoneNumber": {
+    "description": "نص تعليمات إدخال رقم الهاتف"
+  },
+  "welcome": "مرحباً",
+  "@welcome": {
+    "description": "رسالة الترحيب"
+  }
+}

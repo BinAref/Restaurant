@@ -1,0 +1,43 @@
+{
+  "@@locale": "en",
+  "appTitle": "Food Order",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "selectLanguage": "Select Language",
+  "@selectLanguage": {
+    "description": "Prompt to select a language"
+  },
+  "arabic": "Arabic",
+  "@arabic": {
+    "description": "Arabic language label"
+  },
+  "turkish": "Turkish",
+  "@turkish": {
+    "description": "Turkish language label"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language label"
+  },
+  "next": "Next",
+  "@next": {
+    "description": "Button to proceed"
+  },
+  "back": "Back",
+  "@back": {
+    "description": "Button to go back"
+  },
+  "phoneNumber": "Phone Number",
+  "@phoneNumber": {
+    "description": "Phone number field label"
+  },
+  "enterPhoneNumber": "Enter your phone number",
+  "@enterPhoneNumber": {
+    "description": "Prompt to enter phone number"
+  },
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Welcome message"
+  }
+}

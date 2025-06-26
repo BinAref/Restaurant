@@ -1,0 +1,43 @@
+{
+  "@@locale": "tr",
+  "appTitle": "Yemek Siparişi",
+  "@appTitle": {
+    "description": "Uygulamanın başlığı"
+  },
+  "selectLanguage": "Dil Seç",
+  "@selectLanguage": {
+    "description": "Dil seçme istemi"
+  },
+  "arabic": "Arapça",
+  "@arabic": {
+    "description": "Arapça dili etiketi"
+  },
+  "turkish": "Türkçe",
+  "@turkish": {
+    "description": "Türkçe dili etiketi"
+  },
+  "english": "İngilizce",
+  "@english": {
+    "description": "İngilizce dili etiketi"
+  },
+  "next": "İleri",
+  "@next": {
+    "description": "İleri düğmesi"
+  },
+  "back": "Geri",
+  "@back": {
+    "description": "Geri düğmesi"
+  },
+  "phoneNumber": "Telefon Numarası",
+  "@phoneNumber": {
+    "description": "Telefon numarası alan etiketi"
+  },
+  "enterPhoneNumber": "Telefon numaranızı girin",
+  "@enterPhoneNumber": {
+    "description": "Telefon numarası girme istemi"
+  },
+  "welcome": "Hoş geldiniz",
+  "@welcome": {
+    "description": "Karşılama mesajı"
+  }
+}
