@@ -24,7 +24,7 @@ class OrderService {
 
     // إنشاء رقم طلب جديد
     final orderId = 'ORD${_orderCounter++}';
-    
+
     // محاكاة إرسال البيانات إلى الخادم
     final requestBody = {
       'order_id': orderId,
@@ -75,7 +75,8 @@ class OrderService {
   }
 
   // الحصول على تاريخ الطلبات
-  static Future<List<OrderHistoryItem>> getOrderHistory(String phoneNumber) async {
+  static Future<List<OrderHistoryItem>> getOrderHistory(
+      String phoneNumber) async {
     await Future.delayed(Duration(seconds: 1));
 
     // بيانات وهمية لتاريخ الطلبات
