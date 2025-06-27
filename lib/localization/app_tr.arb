@@ -39,5 +39,145 @@
   "welcome": "Hoş geldiniz",
   "@welcome": {
     "description": "Karşılama mesajı"
+  },
+  "rating": "Değerlendirme",
+  "@rating": {
+    "description": "Değerlendirme kelimesi"
+  },
+  "rateYourExperience": "Deneyiminizi Değerlendirin",
+  "@rateYourExperience": {
+    "description": "Deneyim değerlendirme metni"
+  },
+  "rateOrderExperience": "Bu siparişle ilgili deneyiminiz nasıldı?",
+  "@rateOrderExperience": {
+    "description": "Sipariş deneyimi değerlendirme sorusu"
+  },
+  "addNotes": "Notlarınızı ekleyin (isteğe bağlı)",
+  "@addNotes": {
+    "description": "Not ekleme metni"
+  },
+  "enterFeedback": "Hizmetlerimizi geliştirmek için görüşünüzü paylaşın",
+  "@enterFeedback": {
+    "description": "Geri bildirim davet metni"
+  },
+  "submitRating": "Değerlendirmeyi Gönder",
+  "@submitRating": {
+    "description": "Değerlendirme gönderme butonu"
+  },
+  "ratingSubmitted": "Değerlendirmeniz için teşekkürler!",
+  "@ratingSubmitted": {
+    "description": "Değerlendirme sonrası teşekkür mesajı"
+  },
+  "ratingSuccess": "Değerlendirmeniz başarıyla gönderildi",
+  "@ratingSuccess": {
+    "description": "Değerlendirme başarı mesajı"
+  },
+  "ratingRequired": "Lütfen 1-5 yıldız arası bir değerlendirme seçin",
+  "@ratingRequired": {
+    "description": "Değerlendirme gerekli hata mesajı"
+  },
+  "excellent": "Mükemmel",
+  "@excellent": {
+    "description": "Mükemmel değerlendirme"
+  },
+  "good": "İyi",
+  "@good": {
+    "description": "İyi değerlendirme"
+  },
+  "average": "Ortalama",
+  "@average": {
+    "description": "Ortalama değerlendirme"
+  },
+  "poor": "Kötü",
+  "@poor": {
+    "description": "Kötü değerlendirme"
+  },
+  "veryPoor": "Çok Kötü",
+  "@veryPoor": {
+    "description": "Çok kötü değerlendirme"
+  },
+  "rateOrder": "Siparişi Değerlendir",
+  "@rateOrder": {
+    "description": "Sipariş değerlendirme butonu"
+  },
+  "rateThisOrder": "Bu Siparişi Değerlendir",
+  "@rateThisOrder": {
+    "description": "Belirli sipariş değerlendirme metni"
+  },
+  "orderDelivered": "Siparişiniz başarıyla teslim edildi",
+  "@orderDelivered": {
+    "description": "Sipariş teslim mesajı"
+  },
+  "howWasYourExperience": "Deneyiminiz nasıldı?",
+  "@howWasYourExperience": {
+    "description": "Deneyim sorusu"
+  },
+  "shareYourFeedback": "Görüşünüzü paylaşın",
+  "@shareYourFeedback": {
+    "description": "Görüş paylaşım daveti"
+  },
+  "alreadyRated": "Zaten Değerlendirildi",
+  "@alreadyRated": {
+    "description": "Zaten değerlendirilmiş sipariş metni"
+  },
+  "thankYouForRating": "Değerlendirmeniz için teşekkürler",
+  "@thankYouForRating": {
+    "description": "Değerlendirme teşekkürü"
+  },
+  "rateToImprove": "Gelişmemiz için değerlendirin",
+  "@rateToImprove": {
+    "description": "Gelişim için değerlendirme daveti"
+  },
+  "notRatedYet": "Henüz değerlendirilmedi",
+  "@notRatedYet": {
+    "description": "Henüz değerlendirme yok metni"
+  },
+  "cannotRateYet": "Teslimat öncesi değerlendirilemez",
+  "@cannotRateYet": {
+    "description": "Değerlendirme yapılamaz uyarısı"
+  },
+  "rateExperience": "Deneyimi Değerlendir",
+  "@rateExperience": {
+    "description": "Deneyim değerlendirme butonu"
+  },
+  "orderCompleted": "Sipariş Tamamlandı",
+  "@orderCompleted": {
+    "description": "Sipariş tamamlanma mesajı"
+  },
+  "enjoyYourMeal": "Yemeğinizin tadını çıkarmanızı umuyoruz",
+  "@enjoyYourMeal": {
+    "description": "Yemek dilekleri"
+  },
+  "feedbackHelpsUs": "Geri bildiriminiz gelişmemize yardımcı olur",
+  "@feedbackHelpsUs": {
+    "description": "Geri bildirimin gelişim için önemi"
+  },
+  "rateToHelpOthers": "Diğer müşterilere yardım etmek için değerlendirin",
+  "@rateToHelpOthers": {
+    "description": "Diğerlerine yardım için değerlendirme daveti"
+  },
+  "orderRatingTitle": "Sipariş Değerlendirmesi",
+  "@orderRatingTitle": {
+    "description": "Değerlendirme sayfası başlığı"
+  },
+  "giveFeedback": "Geri Bildirim Ver",
+  "@giveFeedback": {
+    "description": "Geri bildirim verme butonu"
+  },
+  "skipRating": "Değerlendirmeyi Atla",
+  "@skipRating": {
+    "description": "Değerlendirme atlama butonu"
+  },
+  "rateLater": "Sonra Değerlendir",
+  "@rateLater": {
+    "description": "Sonra değerlendirme butonu"
+  },
+  "deliveryCompleted": "Teslimat Tamamlandı",
+  "@deliveryCompleted": {
+    "description": "Teslimat tamamlanma mesajı"
+  },
+  "ratingPrompt": "Sipariş deneyiminizi duymak isteriz",
+  "@ratingPrompt": {
+    "description": "Görüş alma daveti"
   }
 }

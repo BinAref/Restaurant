@@ -39,5 +39,145 @@
   "welcome": "مرحباً",
   "@welcome": {
     "description": "رسالة الترحيب"
+  },
+  "rating": "التقييم",
+  "@rating": {
+    "description": "كلمة التقييم"
+  },
+  "rateYourExperience": "قيّم تجربتك",
+  "@rateYourExperience": {
+    "description": "نص تقييم التجربة"
+  },
+  "rateOrderExperience": "كيف كانت تجربتك مع هذا الطلب؟",
+  "@rateOrderExperience": {
+    "description": "سؤال تقييم تجربة الطلب"
+  },
+  "addNotes": "أضف ملاحظاتك (اختياري)",
+  "@addNotes": {
+    "description": "نص إضافة الملاحظات"
+  },
+  "enterFeedback": "شاركنا رأيك لتحسين خدماتنا",
+  "@enterFeedback": {
+    "description": "نص دعوة لكتابة الملاحظات"
+  },
+  "submitRating": "إرسال التقييم",
+  "@submitRating": {
+    "description": "زر إرسال التقييم"
+  },
+  "ratingSubmitted": "شكراً على تقييمك!",
+  "@ratingSubmitted": {
+    "description": "رسالة شكر بعد إرسال التقييم"
+  },
+  "ratingSuccess": "تم إرسال تقييمك بنجاح",
+  "@ratingSuccess": {
+    "description": "رسالة نجاح إرسال التقييم"
+  },
+  "ratingRequired": "الرجاء اختيار تقييم من 1 إلى 5 نجوم",
+  "@ratingRequired": {
+    "description": "رسالة خطأ عدم اختيار تقييم"
+  },
+  "excellent": "ممتاز",
+  "@excellent": {
+    "description": "تقييم ممتاز"
+  },
+  "good": "جيد",
+  "@good": {
+    "description": "تقييم جيد"
+  },
+  "average": "متوسط",
+  "@average": {
+    "description": "تقييم متوسط"
+  },
+  "poor": "ضعيف",
+  "@poor": {
+    "description": "تقييم ضعيف"
+  },
+  "veryPoor": "ضعيف جداً",
+  "@veryPoor": {
+    "description": "تقييم ضعيف جداً"
+  },
+  "rateOrder": "قيّم الطلب",
+  "@rateOrder": {
+    "description": "زر تقييم الطلب"
+  },
+  "rateThisOrder": "قيّم هذا الطلب",
+  "@rateThisOrder": {
+    "description": "نص تقييم طلب محدد"
+  },
+  "orderDelivered": "تم تسليم طلبك بنجاح",
+  "@orderDelivered": {
+    "description": "رسالة تسليم الطلب"
+  },
+  "howWasYourExperience": "كيف كانت تجربتك؟",
+  "@howWasYourExperience": {
+    "description": "سؤال التجربة"
+  },
+  "shareYourFeedback": "شاركنا رأيك",
+  "@shareYourFeedback": {
+    "description": "دعوة مشاركة الرأي"
+  },
+  "alreadyRated": "تم التقييم",
+  "@alreadyRated": {
+    "description": "نص الطلب المقيم بالفعل"
+  },
+  "thankYouForRating": "شكراً لتقييمك",
+  "@thankYouForRating": {
+    "description": "شكر على التقييم"
+  },
+  "rateToImprove": "قيّمنا لنتطور",
+  "@rateToImprove": {
+    "description": "دعوة للتقييم للتطوير"
+  },
+  "notRatedYet": "لم يتم التقييم بعد",
+  "@notRatedYet": {
+    "description": "نص عدم وجود تقييم"
+  },
+  "cannotRateYet": "لا يمكن التقييم قبل التسليم",
+  "@cannotRateYet": {
+    "description": "تنبيه عدم إمكانية التقييم"
+  },
+  "rateExperience": "قيّم التجربة",
+  "@rateExperience": {
+    "description": "زر تقييم التجربة"
+  },
+  "orderCompleted": "تم إنجاز الطلب",
+  "@orderCompleted": {
+    "description": "رسالة إنجاز الطلب"
+  },
+  "enjoyYourMeal": "نتمنى أن تستمتع بوجبتك",
+  "@enjoyYourMeal": {
+    "description": "تمنيات طيبة بالوجبة"
+  },
+  "feedbackHelpsUs": "رأيك يساعدنا على التحسن",
+  "@feedbackHelpsUs": {
+    "description": "أهمية الرأي للتحسين"
+  },
+  "rateToHelpOthers": "قيّم لمساعدة العملاء الآخرين",
+  "@rateToHelpOthers": {
+    "description": "دعوة للتقييم لمساعدة الآخرين"
+  },
+  "orderRatingTitle": "تقييم الطلب",
+  "@orderRatingTitle": {
+    "description": "عنوان صفحة التقييم"
+  },
+  "giveFeedback": "أعط رأيك",
+  "@giveFeedback": {
+    "description": "زر إعطاء الرأي"
+  },
+  "skipRating": "تخطي التقييم",
+  "@skipRating": {
+    "description": "زر تخطي التقييم"
+  },
+  "rateLater": "قيّم لاحقاً",
+  "@rateLater": {
+    "description": "زر التقييم لاحقاً"
+  },
+  "deliveryCompleted": "تم التوصيل",
+  "@deliveryCompleted": {
+    "description": "رسالة اكتمال التوصيل"
+  },
+  "ratingPrompt": "نحب أن نسمع رأيك في طلبك",
+  "@ratingPrompt": {
+    "description": "دعوة لسماع الرأي"
   }
 }

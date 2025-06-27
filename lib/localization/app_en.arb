@@ -39,5 +39,145 @@
   "welcome": "Welcome",
   "@welcome": {
     "description": "Welcome message"
+  },
+  "rating": "Rating",
+  "@rating": {
+    "description": "Rating word"
+  },
+  "rateYourExperience": "Rate Your Experience",
+  "@rateYourExperience": {
+    "description": "Rate experience text"
+  },
+  "rateOrderExperience": "How was your experience with this order?",
+  "@rateOrderExperience": {
+    "description": "Order experience rating question"
+  },
+  "addNotes": "Add your notes (optional)",
+  "@addNotes": {
+    "description": "Add notes text"
+  },
+  "enterFeedback": "Share your feedback to help us improve",
+  "@enterFeedback": {
+    "description": "Feedback invitation text"
+  },
+  "submitRating": "Submit Rating",
+  "@submitRating": {
+    "description": "Submit rating button"
+  },
+  "ratingSubmitted": "Thank you for your rating!",
+  "@ratingSubmitted": {
+    "description": "Thank you message after rating"
+  },
+  "ratingSuccess": "Your rating has been submitted successfully",
+  "@ratingSuccess": {
+    "description": "Rating success message"
+  },
+  "ratingRequired": "Please select a rating from 1 to 5 stars",
+  "@ratingRequired": {
+    "description": "Rating required error message"
+  },
+  "excellent": "Excellent",
+  "@excellent": {
+    "description": "Excellent rating"
+  },
+  "good": "Good",
+  "@good": {
+    "description": "Good rating"
+  },
+  "average": "Average",
+  "@average": {
+    "description": "Average rating"
+  },
+  "poor": "Poor",
+  "@poor": {
+    "description": "Poor rating"
+  },
+  "veryPoor": "Very Poor",
+  "@veryPoor": {
+    "description": "Very poor rating"
+  },
+  "rateOrder": "Rate Order",
+  "@rateOrder": {
+    "description": "Rate order button"
+  },
+  "rateThisOrder": "Rate This Order",
+  "@rateThisOrder": {
+    "description": "Rate specific order text"
+  },
+  "orderDelivered": "Your order has been delivered successfully",
+  "@orderDelivered": {
+    "description": "Order delivered message"
+  },
+  "howWasYourExperience": "How was your experience?",
+  "@howWasYourExperience": {
+    "description": "Experience question"
+  },
+  "shareYourFeedback": "Share your feedback",
+  "@shareYourFeedback": {
+    "description": "Feedback sharing invitation"
+  },
+  "alreadyRated": "Already Rated",
+  "@alreadyRated": {
+    "description": "Already rated order text"
+  },
+  "thankYouForRating": "Thank you for rating",
+  "@thankYouForRating": {
+    "description": "Thanks for rating"
+  },
+  "rateToImprove": "Rate us to improve",
+  "@rateToImprove": {
+    "description": "Rate for improvement invitation"
+  },
+  "notRatedYet": "Not rated yet",
+  "@notRatedYet": {
+    "description": "No rating yet text"
+  },
+  "cannotRateYet": "Cannot rate before delivery",
+  "@cannotRateYet": {
+    "description": "Cannot rate warning"
+  },
+  "rateExperience": "Rate Experience",
+  "@rateExperience": {
+    "description": "Rate experience button"
+  },
+  "orderCompleted": "Order Completed",
+  "@orderCompleted": {
+    "description": "Order completion message"
+  },
+  "enjoyYourMeal": "We hope you enjoy your meal",
+  "@enjoyYourMeal": {
+    "description": "Meal wishes"
+  },
+  "feedbackHelpsUs": "Your feedback helps us improve",
+  "@feedbackHelpsUs": {
+    "description": "Feedback importance for improvement"
+  },
+  "rateToHelpOthers": "Rate to help other customers",
+  "@rateToHelpOthers": {
+    "description": "Rate to help others invitation"
+  },
+  "orderRatingTitle": "Order Rating",
+  "@orderRatingTitle": {
+    "description": "Rating page title"
+  },
+  "giveFeedback": "Give Feedback",
+  "@giveFeedback": {
+    "description": "Give feedback button"
+  },
+  "skipRating": "Skip Rating",
+  "@skipRating": {
+    "description": "Skip rating button"
+  },
+  "rateLater": "Rate Later",
+  "@rateLater": {
+    "description": "Rate later button"
+  },
+  "deliveryCompleted": "Delivery Completed",
+  "@deliveryCompleted": {
+    "description": "Delivery completion message"
+  },
+  "ratingPrompt": "We'd love to hear about your order experience",
+  "@ratingPrompt": {
+    "description": "Invitation to hear opinion"
   }
 }

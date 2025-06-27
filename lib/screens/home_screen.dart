@@ -5,6 +5,7 @@ import 'language_selection_screen.dart';
 import 'menu_screen.dart';
 import 'offers_screen.dart';
 import 'previous_orders_screen.dart';
+import 'rating_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   final String phoneNumber;
